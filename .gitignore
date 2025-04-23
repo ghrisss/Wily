@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# csv data files are too large, alternatively, their compressed parts will be sent to the repository
+*.csv
